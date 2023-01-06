@@ -9,6 +9,11 @@
     padding: 10px 20px;
 
 }
+
+.language {
+    font-size: 7px;
+   
+}
 /* Home */
 #home{
     height: 820px;
