@@ -46,6 +46,19 @@ html{
     box-shadow: 0 0 10px white;
 }
 
+.language {
+    text-decoration: none;
+    padding: 5px;
+    font-size: 10px;
+    color: white;
+}
+
+.navbar a:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 10px white;
+}
+
 /* Home setion*/
 
 #home{
